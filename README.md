@@ -1,4 +1,4 @@
 # Muruvvat
 
-* Open Donation Platform with laravel, mySQL, and RESTAPI
+* Open Donation Platform with Laravel, mySQL, and RESTAPI
   
